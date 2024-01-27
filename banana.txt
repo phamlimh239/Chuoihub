@@ -1,0 +1,4 @@
+repeat task.wait() until game:IsLoaded()
+getting().Key = "38k6251677a3d1l0"
+getgenv().OldBanana = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
